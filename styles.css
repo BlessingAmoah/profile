@@ -13,3 +13,10 @@ div {
     margin: 4px;
 }
 
+/* Add a style for the copyright footnote */
+.copyright {
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+}
+
