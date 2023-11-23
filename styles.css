@@ -9,7 +9,6 @@ h1 {
 h2 {
     color: maroon;
 }
-
 div {
     margin: 4px;
 }
@@ -21,14 +20,3 @@ div {
     color: gray;
 }
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
-#container {
-    text-align: center;
-}
